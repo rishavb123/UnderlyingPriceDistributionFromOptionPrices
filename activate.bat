@@ -1,1 +1,1 @@
-@conda activate ml_env
+@conda activate math_env
